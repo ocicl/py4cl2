@@ -1,0 +1,9 @@
+* py4cl2
+
+Call python from Common Lisp
+
+|---------+--------------------------------------------------------------------------|
+| source  | file:https://github.com/digikar99/py4cl2/archive/refs/tags/v2.9.3.tar.gz |
+| version | 2.9.3                                                                    |
+| systems | py4cl2                                                                   |
+|---------+--------------------------------------------------------------------------|
